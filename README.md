@@ -8,7 +8,7 @@ Semester repository for the AI MSc. Each course lives in `courses/` as a submodu
 |---|---|---|
 | Deep Generative Models | [courses/DGM_25855](courses/DGM_25855) | [AliNikkhah2001/DGM_25855](https://github.com/AliNikkhah2001/DGM_25855) |
 
-Homework 1 for that course (study sheet, teaching guide, written solutions, coding assignment) is published from the course repository.
+Homework 1 (study sheet, teaching guide, written solutions, coding assignment) and Homework 2 (theoretical sheet, VAE notebook, and normalizing-flow notebook) are published from the course repository.
 
 ## Clone
 
