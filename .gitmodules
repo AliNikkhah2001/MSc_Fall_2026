@@ -1,3 +1,6 @@
 [submodule "courses/DGM_25855"]
 	path = courses/DGM_25855
 	url = https://github.com/AliNikkhah2001/DGM_25855.git
+[submodule "courses/SPML_40816"]
+	path = courses/SPML_40816
+	url = https://github.com/AliNikkhah2001/SPML_40816.git
